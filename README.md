@@ -13,14 +13,12 @@ Though they know English, most non-native speakers hesitate to speak it
 2. Sketches
 3. Wireframes
 
-![Wireframes](https://shorturl.at/t9zvn)
 
 ## 🎯 Final Design
 Highlights of the final UI:
 - Responsive layout
 - Accessible color contrast
 
-![Final UI](./FluentMe-Case-Study/Final-Design.png)
 
 ## 🔗 Live Figma File
 [Open in Figma](https://shorturl.at/lqDW9)
